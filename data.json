@@ -1,0 +1,21 @@
+[
+{
+    "no": 1,
+    "name": "Meshach",
+    "product": "Rice",
+    "phone": 2324244522
+},
+{
+    "no": 2,
+    "name": "Joshua",
+    "product": "Beans",
+    "phone": 2324244522
+},
+{
+    "no": 3,
+    "name": "Joel",
+    "product": "Plate",
+    "phone": 2324244522
+}
+
+]
